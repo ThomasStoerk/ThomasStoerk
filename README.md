@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @ThomasStoerk
-<!---
-https://tstoerk.net
---->
+- 👋 Hi, I’m @ThomasStoerk. Reach me via https://tstoerk.net
